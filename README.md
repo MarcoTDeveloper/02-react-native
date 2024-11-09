@@ -1,0 +1,1 @@
+# This project is functional even though it doesn't have an API! It only uses the user's local storage.
